@@ -5,6 +5,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{25E76553-DA6F-4355-AA66-98B16449D5F7}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		create_db.sql = create_db.sql
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsManager.Models", "AccountsManager.Models\AccountsManager.Models.csproj", "{17A69EC2-1799-484E-9DE4-F4EE7E782BCF}"
